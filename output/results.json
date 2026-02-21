@@ -1,0 +1,90 @@
+{
+  "parameters": {
+    "t50_initial": 8.0,
+    "t50_doubling_days": 89.0,
+    "beta": 2.0,
+    "human_rate": 150,
+    "cost_per_step": 0.15
+  },
+  "kappa_sweep": {
+    "0.3": {
+      "final_knowledge_mean": 76.03323180406096,
+      "final_knowledge_std": 2.8041367852940153
+    },
+    "0.33": {
+      "final_knowledge_mean": 72.08734748971224,
+      "final_knowledge_std": 1.1908177317293769
+    },
+    "0.35": {
+      "final_knowledge_mean": 71.07514162777923,
+      "final_knowledge_std": 0.6114936595329392
+    },
+    "0.37": {
+      "final_knowledge_mean": 70.7205347515971,
+      "final_knowledge_std": 0.4107846004541035
+    },
+    "0.4": {
+      "final_knowledge_mean": 70.52596296528179,
+      "final_knowledge_std": 0.17660841518280718
+    },
+    "0.43": {
+      "final_knowledge_mean": 70.61625972224844,
+      "final_knowledge_std": 0.08082522679962177
+    },
+    "0.45": {
+      "final_knowledge_mean": 70.726424883589,
+      "final_knowledge_std": 0.06156098911476665
+    },
+    "0.5": {
+      "final_knowledge_mean": 70.97308042587734,
+      "final_knowledge_std": 0.08054510595585462
+    },
+    "0.55": {
+      "final_knowledge_mean": 71.22482287990076,
+      "final_knowledge_std": 0.06440166700455725
+    },
+    "0.6": {
+      "final_knowledge_mean": 71.37902561732471,
+      "final_knowledge_std": 0.07021437177308698
+    },
+    "0.65": {
+      "final_knowledge_mean": 71.56182070825261,
+      "final_knowledge_std": 0.05564301548059395
+    },
+    "0.7": {
+      "final_knowledge_mean": 71.6804046398599,
+      "final_knowledge_std": 0.06685737462956928
+    },
+    "0.75": {
+      "final_knowledge_mean": 71.78354361360493,
+      "final_knowledge_std": 0.06894965770390507
+    },
+    "0.8": {
+      "final_knowledge_mean": 71.87215922032584,
+      "final_knowledge_std": 0.06471716787091758
+    },
+    "0.85": {
+      "final_knowledge_mean": 71.95669378284354,
+      "final_knowledge_std": 0.056205581680892555
+    },
+    "0.9": {
+      "final_knowledge_mean": 72.04787048759951,
+      "final_knowledge_std": 0.049349901606284975
+    },
+    "0.95": {
+      "final_knowledge_mean": 72.08424660974299,
+      "final_knowledge_std": 0.06069317181804798
+    },
+    "1.0": {
+      "final_knowledge_mean": 72.16419929052142,
+      "final_knowledge_std": 0.04821250690226979
+    }
+  },
+  "breakeven_at_t50_8h": {
+    "0.37": 263.52573733873976,
+    "0.5": 106.22150345407658,
+    "0.6": 69.02801231690495,
+    "0.7": 50.736477674589636,
+    "0.85": 36.622691270454794
+  }
+}
