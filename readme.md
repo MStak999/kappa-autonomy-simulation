@@ -1,4 +1,4 @@
-# Weibull Autonomy Simulation
+# Kappa Autonomy Simulation
 
 Agent-based simulation of scientific knowledge production under Weibull reliability constraints. Preliminary experiment accompanying a research proposal on measuring the transition from "fast tool" to "autonomous scientist."
 
@@ -100,4 +100,4 @@ This builds on:
 - Jones (1995), "R&D-Based Models of Economic Growth", *Journal of Political Economy* 103(4), 759–784
 - Hamilton (2026), "Peto's Paradox and AI Agents"
 - Ord (2024), "Lessons from the Development of the Half-Life of AI"
-]
+
